@@ -1,0 +1,8 @@
+@media (max-width: 768px){
+  .header h1 { font-size: 32px; }
+  .header .subtitle { font-size: 16px; text-align: center; }
+  .form-group { grid-template-columns: 1fr; }
+  .code-grid { grid-template-columns: 1fr; }
+  .code-card .code-title { font-size: 16px; }
+  .form-group .btn-magic { font-size: 16px; }
+}
